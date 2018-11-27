@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Running the app
 
 1. Ensure you have `npm` installed.
@@ -17,3 +18,7 @@ npm run server
 ````
 
 The server is now running at [localhost:3000](localhost:3000)
+=======
+# Chat_Intermediate
+
+>>>>>>> 73ebcb334b476f973fa2ed2e1bec3ae14fd92687
